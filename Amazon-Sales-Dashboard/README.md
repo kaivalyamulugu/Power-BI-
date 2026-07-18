@@ -2,88 +2,89 @@
 
 ## Project Overview
 
-This Power BI dashboard analyzes sales performance across Amazon, eBay, and the company webshop to help monitor revenue, profit, customer behavior, and product performance.
-
-The dashboard supports business decision-making by identifying sales trends, top-performing products, and opportunities for revenue growth.
+This interactive Power BI dashboard provides an overview of Amazon sales performance through key business metrics and visualizations. It enables users to explore revenue, profit, customer activity, product performance, and sales trends using interactive filters.
 
 ---
 
-# Business Problem
+## Objective
 
-Business managers need a centralized view of sales performance to monitor KPIs, compare product performance, and identify opportunities to improve profitability.
+Create an interactive dashboard to monitor sales performance and present key business metrics in a single report.
 
 ---
 
-# Tools Used
+## Tools Used
 
 - Power BI
 - Microsoft Excel
-- DAX
 - Power Query
+- DAX
 
 ---
 
-# Dashboard Preview
+## Dashboard Preview
+<img width="1346" height="737" alt="Amazondashboard" src="https://github.com/user-attachments/assets/ec82e5c4-d00a-47d4-983f-c2dda2fd6442" />
 
-
-<img width="1346" height="737" alt="Amazondashboard" src="https://github.com/user-attachments/assets/17793ee8-e298-436f-b012-2d039b03700d" />
-
-<img width="1297" height="707" alt="Amazon dashboard1" src="https://github.com/user-attachments/assets/fcf505fc-6287-498a-ae18-0cb1b96612a4" />
+<img width="1297" height="707" alt="Amazon dashboard1" src="https://github.com/user-attachments/assets/d3ddfa13-6f29-42b7-85ff-56f8705bce87" />
 
 ---
 
-# Key KPIs
+## Key Performance Indicators (KPIs)
 
-- Total Revenue
-- Total Profit
-- Total Orders
 - Total Customers
-- Average Order Value
-- Advertising Spend
+- Total Profit
+- Total Revenue
+- Total Orders
+- Average Rating
+- Total Products
 
 ---
 
-# Dashboard Features
+## Dashboard Features
 
-- Sales Performance Analysis
-- Revenue & Profit Overview
-- Monthly Sales Analysis
-- Product Category Performance
-- Top Selling Products
-- Customer Analysis
-- Regional Sales Analysis
+### Page 1
+
+- Revenue Overview
+- Revenue by Year
+- Top 5 Subcategories by Revenue
+- Revenue by Location
+- Total Selling by Product Category
 - Interactive Filters
+  - Year
+  - Month
+  - Location
+  - Product Category
+  - Rating
+
+### Page 2
+
+- Top 5 Products by Revenue
+- Bottom 5 Products by Revenue
+- Monthly Revenue Trend
+- Monthly Profit Trend
 
 ---
 
-# Key Insights
+## Purpose
 
-- Generated over **113K orders** across multiple sales channels.
-- Identified top-performing product categories contributing the highest revenue.
-- Compared revenue and profit to evaluate business performance.
-- Tracked customer purchasing trends and sales growth.
-- Supported business decisions through interactive KPI reporting.
+The dashboard enables users to:
 
----
-
-# Business Value
-
-This dashboard helps businesses:
-
-- Monitor sales performance
-- Track profitability
-- Identify top-performing products
-- Support pricing decisions
-- Improve strategic planning
+- View key sales KPIs
+- Compare revenue across years
+- Analyze product category performance
+- Identify top and bottom performing products
+- Explore geographical revenue distribution
+- Monitor monthly revenue and profit trends
+- Filter dashboard results interactively
 
 ---
 
-# Skills Demonstrated
+## Skills Demonstrated
 
 - Power BI Dashboard Development
+- Data Cleaning
+- Data Transformation
 - Data Modeling
 - DAX
+- Power Query
 - KPI Reporting
 - Data Visualization
-- Business Intelligence
-- Sales Analytics
