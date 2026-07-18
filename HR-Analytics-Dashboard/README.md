@@ -2,38 +2,34 @@
 
 ## Project Overview
 
-This interactive Power BI dashboard analyzes employee attrition, workforce demographics, salary distribution, and departmental performance.
-
-The dashboard helps HR teams identify turnover patterns and supports data-driven workforce planning.
+This interactive Power BI dashboard presents workforce and employee attrition data through KPI cards and interactive visualizations. It enables users to explore employee demographics, salary distribution, job roles, education, and attrition across departments.
 
 ---
 
-# Business Problem
+## Objective
 
-Employee attrition affects organizational performance and increases recruitment costs.
-
-The objective of this dashboard is to identify factors influencing employee turnover and provide actionable insights for HR decision-making.
+Create an interactive HR dashboard to monitor employee attrition and visualize workforce metrics in a single report.
 
 ---
 
-# Tools Used
+## Tools Used
 
 - Power BI
 - Microsoft Excel
-- DAX
 - Power Query
+- DAX
 
 ---
 
-# Dashboard Preview
+## Dashboard Preview
 
-<img width="1327" height="732" alt="HR dashboard" src="https://github.com/user-attachments/assets/d04a22cf-4050-4b4f-80e8-36682a65de2d" />
+<img width="1327" height="732" alt="HR dashboard" src="https://github.com/user-attachments/assets/16ce2a1d-fd1b-4235-889e-96f6aba28733" />
 
 ---
 
-# Key KPIs
+## Key Performance Indicators (KPIs)
 
-- Total Employees
+- Employee Count
 - Employee Attrition
 - Attrition Rate
 - Average Age
@@ -42,49 +38,44 @@ The objective of this dashboard is to identify factors influencing employee turn
 
 ---
 
-# Dashboard Features
+## Dashboard Features
 
-- Employee Attrition Analysis
-- Department-wise Analysis
-- Employee Age Distribution
-- Education-wise Attrition
-- Salary-wise Attrition
-- Years at Company Analysis
-- Job Role Analysis
+- Employee Overview
+- Attrition by Education
+- Attrition by Age
+- Attrition by Salary
+- Attrition by Years at Company
+- Attrition by Job Role
 - Gender Distribution
-- Interactive Department Filter
+- Job Role Matrix
+- Department Filter
+  - Human Resources
+  - Research & Development
+  - Sales
 
 ---
 
-# Key Insights
+## Purpose
 
-- Overall attrition rate is **16.1%**.
-- Employees aged **26–35** have the highest attrition.
-- Employees earning **up to 5K** experience the highest turnover.
-- Laboratory Technicians and Sales Executives show the highest attrition.
-- Life Sciences employees represent the largest education group.
+The dashboard enables users to:
 
----
-
-# Business Value
-
-This dashboard helps HR teams:
-
-- Monitor employee attrition
-- Identify high-risk employee groups
-- Compare departmental performance
-- Improve employee retention strategies
-- Support workforce planning
+- View employee workforce KPIs
+- Analyze employee attrition across multiple categories
+- Compare departments using interactive filters
+- Explore workforce demographics
+- Monitor salary and experience distribution
+- Review attrition by job role and education
 
 ---
 
-# Skills Demonstrated
+## Skills Demonstrated
 
-- HR Analytics
 - Power BI Dashboard Development
+- HR Analytics
 - Data Cleaning
+- Data Transformation
 - Data Modeling
 - DAX
+- Power Query
 - KPI Reporting
 - Data Visualization
-- Business Intelligence
